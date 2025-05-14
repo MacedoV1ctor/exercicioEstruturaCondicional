@@ -8,7 +8,7 @@ Eles abordam **estrutura condicional (`if`, `else`)** e são ideais para quem es
 
 ## 🧠 Exercícios resolvidos
 
-| Nº | Descrição | Correção oficial |
+| Nº | Descrição | 
 |----|-----------|------------------|
 | 01 | Verifica se um número é negativo | 
 | 02 | Verifica se um número é par ou ímpar | 
