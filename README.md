@@ -9,7 +9,7 @@ Eles abordam **estrutura condicional (`if`, `else`)** e são ideais para quem es
 ## 🧠 Exercícios resolvidos
 
 | Nº | Descrição | 
-|----|-----------|------------------|
+|----|-----------|
 | 01 | Verifica se um número é negativo | 
 | 02 | Verifica se um número é par ou ímpar | 
 | 03 | Verifica se dois números são múltiplos | 
